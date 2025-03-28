@@ -1,2 +1,2 @@
 # multiplayer-pong-express
-A multiplayer pong game with sockets and express
+A multiplayer pong game with Socket.io and Express.js
